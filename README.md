@@ -1,24 +1,2 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Simple project to create advenced search of whole word data from data.json file. Implement Name, Type and Designed by search. Also support quoted prhases like ("Some words") and negative(exclude) search like (--ActionScript).
+Have some test coverage.
